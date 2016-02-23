@@ -1,4 +1,4 @@
-#this project is created by: Renzee Sto Tomas
+#this project was created by: Renzee Sto Tomas
 
 sample = '''A word with 3 letters to describe a motorized vheicle is ___1___'''
 
